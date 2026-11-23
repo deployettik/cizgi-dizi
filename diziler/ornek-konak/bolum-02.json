@@ -1,0 +1,618 @@
+{
+  "no": 2,
+  "baslik": "Bölüm 2 · DNA testi için saçımı verdim, ama o gece biri zarfı açtı…",
+  "kanca": "DNA testi için saçımı verdim, ama o gece biri zarfı açtı…",
+  "aciklama": "Hanımefendi gizlice saçımı aldırdı, demek ki DNA testi yapılacaktı. Kaan Bey beni şehirden göndermek için her yolu denedi ama annemi bulmadan hiçbir yere gitmem. O gece zarfın başında onu Hatice abla yakaladı… ve Kaan Bey'in zarfa koyduğu saç benim değildi.",
+  "soru": "Sizce Kaan zarfa kimin saçını koydu?",
+  "etiketler": [
+    "kiminkiziyim",
+    "animasyondizi",
+    "cizgifilm",
+    "hikaye",
+    "dram",
+    "aile",
+    "konak",
+    "dnatesti",
+    "cizgidizi"
+  ],
+  "sahneler": [
+    {
+      "mekan": "yatak-odasi",
+      "zaman": "gece",
+      "oyuncular": {
+        "nermin": {
+          "x": 800,
+          "derinlik": 0.1,
+          "duygu": "aglama"
+        },
+        "defne": {
+          "x": 560,
+          "derinlik": 0,
+          "duygu": "korku",
+          "yon": "sag"
+        },
+        "kaan": {
+          "x": 260,
+          "derinlik": 0.5,
+          "duygu": "kizgin"
+        }
+      },
+      "cekimler": [
+        {
+          "kim": "kaan",
+          "soz": "Ne saçmalıyorsun anne? O gece daha on sekiz yaşındaydım!",
+          "poz": "isaret",
+          "kamera": {
+            "tip": "orta",
+            "hedef": "kaan"
+          },
+          "efekt": "karar"
+        },
+        {
+          "kim": "nermin",
+          "soz": "O gece bebeğin odasından çıkan tek kişi sendin Kaan.",
+          "kamera": {
+            "tip": "yakin",
+            "hedef": "nermin"
+          }
+        },
+        {
+          "kim": "kaan",
+          "soz": "Bunu sana kim söyledi?",
+          "duygu": "korku",
+          "poz": "ayakta",
+          "kamera": {
+            "tip": "cok-yakin",
+            "hedef": "kaan"
+          }
+        },
+        {
+          "sure": 1,
+          "oyuncular": {
+            "nermin": {
+              "duygu": "supheli"
+            }
+          },
+          "kamera": {
+            "tip": "cok-yakin",
+            "hedef": "nermin"
+          },
+          "efekt": "sarsinti"
+        },
+        {
+          "kim": "nermin",
+          "soz": "Test yapılacak. Selin'in tarağını yirmi iki yıldır saklıyorum.",
+          "duygu": "kizgin",
+          "poz": "isaret",
+          "kamera": {
+            "tip": "orta",
+            "hedef": "nermin"
+          }
+        },
+        {
+          "kim": "kaan",
+          "soz": "O kız bu eve bir daha adımını atmayacak!",
+          "duygu": "kizgin",
+          "poz": "kollari-bagli",
+          "kamera": {
+            "tip": "yakin",
+            "hedef": "kaan"
+          }
+        },
+        {
+          "kim": "defne",
+          "soz": "Babaanne, babam neden bu kadar kızgın?",
+          "oyuncular": {
+            "kaan": {
+              "gizli": true
+            },
+            "nermin": {
+              "poz": "ayakta",
+              "duygu": "uzgun"
+            }
+          },
+          "kamera": {
+            "tip": "yakin",
+            "hedef": "defne"
+          }
+        },
+        {
+          "kim": "nermin",
+          "soz": "Bazı babalar korktuğu için bağırır güzel kızım.",
+          "kamera": {
+            "tip": "iki",
+            "hedef": "defne",
+            "hedef2": "nermin"
+          }
+        },
+        {
+          "kim": "nermin",
+          "soz": "Yarın sabah o ablanın bir tel saçını bana getirir misin?",
+          "duygu": "supheli",
+          "kamera": {
+            "tip": "yakin",
+            "hedef": "nermin"
+          }
+        },
+        {
+          "kim": "defne",
+          "soz": "Getiririm! Ama kimseye söylemem, söz.",
+          "duygu": "mutlu",
+          "kamera": {
+            "tip": "yakin",
+            "hedef": "defne"
+          }
+        }
+      ]
+    },
+    {
+      "mekan": "mutfak",
+      "zaman": "gunduz",
+      "oyuncular": {
+        "hatice": {
+          "x": 330,
+          "derinlik": 0.1,
+          "duygu": "supheli"
+        },
+        "zeynep": {
+          "x": 760,
+          "derinlik": 0.1,
+          "duygu": "normal"
+        },
+        "defne": {
+          "x": 560,
+          "derinlik": 0.35,
+          "yon": "sag",
+          "gizli": true
+        },
+        "kaan": {
+          "x": 420,
+          "derinlik": 0.6,
+          "gizli": true
+        }
+      },
+      "cekimler": [
+        {
+          "kim": "hatice",
+          "soz": "Kaan Bey seni kovdu ama hanımefendi kalmanı istedi.",
+          "kamera": {
+            "tip": "orta",
+            "hedef": "hatice"
+          },
+          "efekt": "karar"
+        },
+        {
+          "kim": "zeynep",
+          "soz": "Beni neden istesin ki? Dün bana hırsız gibi bakıyordu.",
+          "duygu": "saskin",
+          "kamera": {
+            "tip": "yakin",
+            "hedef": "zeynep"
+          }
+        },
+        {
+          "kim": "hatice",
+          "soz": "Dün gece hiç uyumadı. Selin Hanım'ın odasında sabahladı.",
+          "duygu": "uzgun",
+          "kamera": {
+            "tip": "yakin",
+            "hedef": "hatice"
+          }
+        },
+        {
+          "kim": "zeynep",
+          "soz": "Selin Hanım... Defne'nin halası mı? Şimdi nerede?",
+          "duygu": "supheli",
+          "kamera": {
+            "tip": "yakin",
+            "hedef": "zeynep"
+          }
+        },
+        {
+          "kim": "hatice",
+          "soz": "O geceden sonra bu eve bir daha hiç gelmedi.",
+          "duygu": "korku",
+          "kamera": {
+            "tip": "iki",
+            "hedef": "hatice",
+            "hedef2": "zeynep"
+          }
+        },
+        {
+          "kim": "defne",
+          "soz": "Abla! Saçını ben tarayabilir miyim?",
+          "duygu": "mutlu",
+          "poz": "el-salliyor",
+          "oyuncular": {
+            "defne": {
+              "gizli": false
+            },
+            "hatice": {
+              "gizli": true
+            }
+          },
+          "kamera": {
+            "tip": "genis"
+          }
+        },
+        {
+          "kim": "zeynep",
+          "soz": "Tabii prenses. Ama acıtma, tamam mı?",
+          "duygu": "mutlu",
+          "kamera": {
+            "tip": "iki",
+            "hedef": "zeynep",
+            "hedef2": "defne"
+          }
+        },
+        {
+          "kim": "defne",
+          "soz": "Babaannem bir tel saç getirirsen dondurma alırım dedi.",
+          "duygu": "utangac",
+          "poz": "ayakta",
+          "kamera": {
+            "tip": "yakin",
+            "hedef": "defne"
+          }
+        },
+        {
+          "sure": 1,
+          "oyuncular": {
+            "zeynep": {
+              "duygu": "saskin"
+            }
+          },
+          "kamera": {
+            "tip": "cok-yakin",
+            "hedef": "zeynep"
+          },
+          "efekt": "sarsinti"
+        },
+        {
+          "kim": "zeynep",
+          "soz": "Demek test yapacaklar... Al bakalım, bir tel değil, üç tel.",
+          "duygu": "uzgun",
+          "kamera": {
+            "tip": "yakin",
+            "hedef": "zeynep"
+          }
+        },
+        {
+          "kim": "kaan",
+          "soz": "Defne! Ver onu bana, hemen!",
+          "duygu": "kizgin",
+          "poz": "isaret",
+          "oyuncular": {
+            "kaan": {
+              "gizli": false
+            }
+          },
+          "kamera": {
+            "tip": "orta",
+            "hedef": "kaan"
+          },
+          "efekt": "flas"
+        },
+        {
+          "kim": "defne",
+          "soz": "Hayır baba! Bunlar babaannemin!",
+          "duygu": "korku",
+          "poz": "koruyor",
+          "kamera": {
+            "tip": "yakin",
+            "hedef": "defne"
+          }
+        },
+        {
+          "sure": 0.9,
+          "oyuncular": {
+            "defne": {
+              "gizli": true
+            },
+            "kaan": {
+              "x": 380,
+              "derinlik": 0.2,
+              "poz": "kollari-bagli",
+              "duygu": "supheli"
+            },
+            "zeynep": {
+              "duygu": "kizgin"
+            }
+          },
+          "kamera": {
+            "tip": "iki",
+            "hedef": "kaan",
+            "hedef2": "zeynep"
+          }
+        },
+        {
+          "kim": "zeynep",
+          "soz": "Bir çocuğu bile korkutuyorsunuz. Neyi saklıyorsunuz Kaan Bey?",
+          "kamera": {
+            "tip": "yakin",
+            "hedef": "zeynep"
+          },
+          "sure": 0.6
+        }
+      ]
+    },
+    {
+      "mekan": "sokak",
+      "zaman": "gece",
+      "oyuncular": {
+        "zeynep": {
+          "x": 700,
+          "duygu": "kizgin"
+        },
+        "kaan": {
+          "x": 340,
+          "derinlik": 0.1,
+          "duygu": "supheli",
+          "poz": "kollari-bagli"
+        }
+      },
+      "cekimler": [
+        {
+          "kim": "kaan",
+          "soz": "Sana son kez söylüyorum. Git bu şehirden.",
+          "kamera": {
+            "tip": "iki",
+            "hedef": "kaan",
+            "hedef2": "zeynep"
+          },
+          "efekt": "karar"
+        },
+        {
+          "kim": "zeynep",
+          "soz": "Gitmeyeceğim. Annemi bulmadan hiçbir yere gitmem.",
+          "kamera": {
+            "tip": "yakin",
+            "hedef": "zeynep"
+          }
+        },
+        {
+          "kim": "kaan",
+          "soz": "Annen seni hiç aramadı. Hiç düşünmedin mi neden?",
+          "duygu": "uzgun",
+          "poz": "ayakta",
+          "kamera": {
+            "tip": "yakin",
+            "hedef": "kaan"
+          }
+        },
+        {
+          "kim": "zeynep",
+          "soz": "Annemi... tanıyor musunuz?",
+          "duygu": "saskin",
+          "kamera": {
+            "tip": "cok-yakin",
+            "hedef": "zeynep"
+          }
+        },
+        {
+          "kim": "kaan",
+          "soz": "Tanısaydım bile sana söylemezdim.",
+          "duygu": "supheli",
+          "poz": "kollari-bagli",
+          "kamera": {
+            "tip": "orta",
+            "hedef": "kaan"
+          }
+        },
+        {
+          "kim": "zeynep",
+          "soz": "Bu kolyeyi gördüğünüz an yüzünüz bembeyaz oldu Kaan Bey.",
+          "duygu": "supheli",
+          "kamera": {
+            "tip": "yakin",
+            "hedef": "zeynep"
+          }
+        },
+        {
+          "kim": "kaan",
+          "soz": "O kolye, bu ailenin başına gelen en büyük felaket.",
+          "duygu": "korku",
+          "poz": "basini-tutuyor",
+          "kamera": {
+            "tip": "yakin",
+            "hedef": "kaan"
+          }
+        },
+        {
+          "sure": 1,
+          "oyuncular": {
+            "zeynep": {
+              "duygu": "aglama"
+            }
+          },
+          "kamera": {
+            "tip": "cok-yakin",
+            "hedef": "zeynep",
+            "hareket": "titrek"
+          },
+          "efekt": "sarsinti"
+        },
+        {
+          "kim": "zeynep",
+          "soz": "Benim tek hatıram... sizin için felaket mi?",
+          "duygu": "aglama",
+          "kamera": {
+            "tip": "yakin",
+            "hedef": "zeynep"
+          }
+        },
+        {
+          "kim": "kaan",
+          "soz": "Bazı hatıralar, unutulsun diye kapılara bırakılır.",
+          "duygu": "uzgun",
+          "poz": "ayakta",
+          "kamera": {
+            "tip": "cok-yakin",
+            "hedef": "kaan"
+          }
+        },
+        {
+          "kim": "kaan",
+          "soz": "Test sonucu ne çıkarsa çıksın. Yarın gidiyorsun.",
+          "duygu": "kizgin",
+          "kamera": {
+            "tip": "orta",
+            "hedef": "kaan"
+          },
+          "sure": 0.6
+        }
+      ]
+    },
+    {
+      "mekan": "ofis",
+      "zaman": "gece",
+      "zengin": true,
+      "oyuncular": {
+        "kaan": {
+          "x": 420,
+          "derinlik": 0.1,
+          "duygu": "supheli"
+        },
+        "hatice": {
+          "x": 800,
+          "derinlik": 0.15,
+          "yon": "sol",
+          "gizli": true
+        }
+      },
+      "cekimler": [
+        {
+          "kim": "kaan",
+          "soz": "Annem bu zarfı yarın sabah laboratuvara gönderecek.",
+          "kamera": {
+            "tip": "orta",
+            "hedef": "kaan"
+          },
+          "efekt": "karar"
+        },
+        {
+          "kim": "kaan",
+          "soz": "Üç tel saç... Yirmi iki yıllık sır, üç tel saça mı kaldı?",
+          "duygu": "uzgun",
+          "poz": "basini-tutuyor",
+          "kamera": {
+            "tip": "yakin",
+            "hedef": "kaan"
+          }
+        },
+        {
+          "sure": 1,
+          "oyuncular": {
+            "kaan": {
+              "poz": "ayakta",
+              "duygu": "kizgin"
+            }
+          },
+          "kamera": {
+            "tip": "cok-yakin",
+            "hedef": "kaan"
+          }
+        },
+        {
+          "kim": "kaan",
+          "soz": "Bu çekmeceyi yirmi iki yıldır kimse açmadı.",
+          "duygu": "supheli",
+          "kamera": {
+            "tip": "orta",
+            "hedef": "kaan"
+          }
+        },
+        {
+          "kim": "kaan",
+          "soz": "Affet beni anne. Bu sonucu sen kaldıramazsın.",
+          "duygu": "uzgun",
+          "kamera": {
+            "tip": "cok-yakin",
+            "hedef": "kaan"
+          }
+        },
+        {
+          "kim": "hatice",
+          "soz": "Kaan Bey! O zarfı neden açtınız?",
+          "duygu": "korku",
+          "poz": "eller-agizda",
+          "oyuncular": {
+            "hatice": {
+              "gizli": false
+            }
+          },
+          "kamera": {
+            "tip": "orta",
+            "hedef": "hatice"
+          },
+          "efekt": "flas"
+        },
+        {
+          "sure": 0.9,
+          "oyuncular": {
+            "kaan": {
+              "duygu": "korku"
+            },
+            "hatice": {
+              "poz": "ayakta"
+            }
+          },
+          "kamera": {
+            "tip": "iki",
+            "hedef": "kaan",
+            "hedef2": "hatice"
+          },
+          "efekt": "sarsinti"
+        },
+        {
+          "kim": "kaan",
+          "soz": "Hatice, bu gece hiçbir şey görmedin. Anladın mı?",
+          "duygu": "kizgin",
+          "poz": "isaret",
+          "kamera": {
+            "tip": "yakin",
+            "hedef": "kaan"
+          }
+        },
+        {
+          "kim": "hatice",
+          "soz": "Yirmi iki yıl önce de bana aynı şeyi söylemiştiniz...",
+          "duygu": "aglama",
+          "kamera": {
+            "tip": "yakin",
+            "hedef": "hatice"
+          }
+        },
+        {
+          "kim": "hatice",
+          "soz": "O gece de elinizde bir zarf vardı. Hatırlıyor musunuz?",
+          "duygu": "supheli",
+          "kamera": {
+            "tip": "yakin",
+            "hedef": "hatice"
+          }
+        },
+        {
+          "kim": "kaan",
+          "soz": "Sus! Bu sefer konuşursan, o kızı da kaybederiz.",
+          "duygu": "korku",
+          "poz": "ayakta",
+          "kamera": {
+            "tip": "cok-yakin",
+            "hedef": "kaan"
+          }
+        },
+        {
+          "kim": "hatice",
+          "soz": "Kaan Bey... Zarfa koyduğunuz o saç... kimin?",
+          "duygu": "supheli",
+          "kamera": {
+            "tip": "cok-yakin",
+            "hedef": "hatice"
+          },
+          "sure": 0.8
+        }
+      ]
+    }
+  ]
+}

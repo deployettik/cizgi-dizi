@@ -75,9 +75,14 @@ Hassas konular (şiddet, alkol, istismar): reels'te **ima edilir, gösterilmez.*
 
 ## 4. Seri kurgusu (bölümden bölüme)
 
+- **Bir sezon en az 10 bölümdür** (Hazal'ın kuralı). Ana sırrı ilk bölümlerde çözme.
+  - Bölüm yazmadan önce `diziler/<dizi>/sezon.md` dosyasına sezon planını yaz.
+  - Planda olsun: gizli gerçek, karakterler, her bölüm için kanca, olay ve askı.
+  - Her yeni bölüm bu plana uysun.
 - **Bölüm 1:** Dünya + darbe + büyük soru.
-- **Bölüm 2–4:** Her bölüm bir soruyu yanıtlar ve yeni, daha büyük bir soru açar.
-- Her 3–4 bölümde bir **"büyük ifşa"** olsun (DNA, mektup, kaset).
+- **Bölüm 2–4:** Her bölüm bir soruyu yanıtlar ve daha büyük bir soru açar. Sahte ipuçları ve engeller buraya gelir (örneğin sahte test sonucu).
+- **Ortada (≈ Bölüm 5):** ilk büyük ifşa. Sonra 1–2 bölümde bir yeni ifşa (DNA, mektup, itiraf).
+- **Final (Bölüm 10):** Kötü karakterin oyunu bozulur, ana soru cevaplanır. 2. sezon için bir kanca bırak (mektup, yeni isim).
 - Karakter sayısı: çekirdekte 3–4 kişi. Her bölümde en fazla 1 yeni karakter.
 - Yorum sorusu izleyiciyi **taraf tutmaya** zorlasın: "Sizce Aslı ona bir şans vermeli mi, yoksa ilk fırsatta kaçmalı mı?"
 - Bölüm adı formatı: `Bölüm N · <birinci tekil itiraf cümlesi>…`

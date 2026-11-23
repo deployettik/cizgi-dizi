@@ -9,7 +9,7 @@ Proje: `C:\Users\hazal\cizgi-dizi`. Stack: Remotion 4 + React SVG karakterler + 
 
 ## Akış
 
-1. **Fikir ve senaryo.** Önce `skill/senaryo-rehberi.md` dosyasını oku. Kalıp kataloğundan birini seç (ya da kullanıcının fikrini al) ve bölümü **varsayılan olarak maksimum sürede kur: 3 dakikanın hemen altı** (~175 sn, 40–45 replik, 3–4 sahne, 4 perde). Her 20–30 sn'de bir mini kanca olsun. Hazal kısa isterse 30–60 sn. Senaryoyu kullanıcıya kısaca göster. Onay gelmeden seslendirme yapma, çünkü kredi harcar.
+1. **Fikir ve senaryo.** Önce `skill/senaryo-rehberi.md` dosyasını oku. Kalıp kataloğundan birini seç (ya da kullanıcının fikrini al) ve bölümü **varsayılan olarak maksimum sürede kur: 3 dakikanın hemen altı** (~175 sn, 40–45 replik, 3–4 sahne, 4 perde). Her 20–30 sn'de bir mini kanca olsun. Hazal kısa isterse 30–60 sn. Yeni bir dizide önce `diziler/<dizi>/sezon.md` sezon planını yaz. Sezon **en az 10 bölüm** olmalı. Örnek: `diziler/ornek-konak/sezon.md`. Senaryoyu kullanıcıya kısaca göster. Onay gelmeden seslendirme yapma, çünkü kredi harcar.
 2. **Dizi dosyası.** `diziler/<dizi>/dizi.json` içinde hesap adı, karakterler (görünüm + ses) ve ses id'leri yer alır.
 3. **Bölüm dosyası.** `diziler/<dizi>/bolum-01.json`. Sahneler → oyuncular → çekimler.
 4. **Kontrol (kredisiz).** `npm run kontrol -- <dizi>` komutu dosyayı doğrular, süreyi ve harf/kredi tahminini verir.
