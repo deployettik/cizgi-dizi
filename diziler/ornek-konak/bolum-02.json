@@ -81,6 +81,15 @@
         },
         {
           "kim": "nermin",
+          "soz": "Bir anne her şeyi bilir Kaan. Sadece susmayı da bilir.",
+          "duygu": "uzgun",
+          "kamera": {
+            "tip": "yakin",
+            "hedef": "nermin"
+          }
+        },
+        {
+          "kim": "nermin",
           "soz": "Test yapılacak. Selin'in tarağını yirmi iki yıldır saklıyorum.",
           "duygu": "kizgin",
           "poz": "isaret",
@@ -233,16 +242,6 @@
           },
           "kamera": {
             "tip": "genis"
-          }
-        },
-        {
-          "kim": "zeynep",
-          "soz": "Tabii prenses. Ama acıtma, tamam mı?",
-          "duygu": "mutlu",
-          "kamera": {
-            "tip": "iki",
-            "hedef": "zeynep",
-            "hedef2": "defne"
           }
         },
         {
@@ -401,6 +400,15 @@
         },
         {
           "kim": "zeynep",
+          "soz": "Yirmi iki yıl bekledim Kaan Bey. Bir ömür daha beklerim.",
+          "duygu": "kizgin",
+          "kamera": {
+            "tip": "yakin",
+            "hedef": "zeynep"
+          }
+        },
+        {
+          "kim": "zeynep",
           "soz": "Bu kolyeyi gördüğünüz an yüzünüz bembeyaz oldu Kaan Bey.",
           "duygu": "supheli",
           "kamera": {
@@ -519,6 +527,15 @@
           "duygu": "supheli",
           "kamera": {
             "tip": "orta",
+            "hedef": "kaan"
+          }
+        },
+        {
+          "kim": "kaan",
+          "soz": "Annemin bilmediği tek bir şey kaldı. O da bu çekmecede.",
+          "duygu": "supheli",
+          "kamera": {
+            "tip": "yakin",
             "hedef": "kaan"
           }
         },
